@@ -1,0 +1,21 @@
+{
+  "name": "backend-coder-53095",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "echo \"# Backend-53095\" >> README.md\r git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin https://github.com/EnzoDurini/Backend-53095.git\r git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoDurini/Backend-53095.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoDurini/Backend-53095/issues"
+  },
+  "homepage": "https://github.com/EnzoDurini/Backend-53095#readme"
+}
