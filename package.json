@@ -5,7 +5,8 @@
   "description": "echo \"# Backend-53095\" >> README.md\r git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin https://github.com/EnzoDurini/Backend-53095.git\r git push -u origin main",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testN": "nodemon Tercer-entrega/src/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/EnzoDurini/Backend-53095/issues"
   },
-  "homepage": "https://github.com/EnzoDurini/Backend-53095#readme"
+  "homepage": "https://github.com/EnzoDurini/Backend-53095#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

@@ -1,1 +1,11 @@
-[{"title":"queso","description":"cremoso","price":1500,"stock":10,"code":"B45","thumbnail":[],"id":"a82c88715d49870f8747"}]
+[
+  {
+    "title": "queso",
+    "description": "cremoso",
+    "price": 1500,
+    "stock": 10,
+    "code": "B45",
+    "thumbnail": [],
+    "id": "a82c88715d49870f8747"
+  }
+]
