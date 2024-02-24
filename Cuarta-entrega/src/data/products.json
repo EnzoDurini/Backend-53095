@@ -1,0 +1,58 @@
+[
+    {
+      "title": "queso",
+      "description": "cremoso",
+      "price": 1500,
+      "stock": 10,
+      "code": "QC45",
+      "thumbnail": [],
+      "id": "1"
+    },
+    {
+      "title": "queso",
+      "description": "barra",
+      "price": 1300,
+      "stock": 30,
+      "code": "QA45",
+      "thumbnail": [],
+      "id": "2"
+    },
+    {
+      "title": "queso",
+      "description": "rayado",
+      "price": 100,
+      "stock": 120,
+      "code": "QR45",
+      "thumbnail": [],
+      "id": "3"
+    },
+    {
+      "title": "salamin",
+      "description": "corte fino",
+      "price": 600,
+      "stock": 65,
+      "code": "SF564",
+      "thumbnail": [],
+      "id": "4"
+    },
+    {
+      "title": "salamin",
+      "description": "corte grueso",
+      "price": 700,
+      "stock": 110,
+      "code": "SG745",
+      "thumbnail": [],
+      "id": "5"
+    },
+    {
+      "title": "mortadela",
+      "description": "-",
+      "price": 500,
+      "stock": 10,
+      "code": "M16",
+      "thumbnail": [],
+      "id": "6"
+    }
+    
+  ]
+  
