@@ -20,7 +20,7 @@ const server = app.listen(port, () => console.log(`Server is running on port ${p
 const io = new Server(server)
 
 //Conexión DB
-mongoose.connect("mongodb+srv://admin:coderhouse@cluster0.ioxlwmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+mongoose.connect("mongodb+srv://admin:password@cluster0.ioxlwmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 .then(()=>console.log("DB is connected"))
 .catch(e => console.log(e))
 
